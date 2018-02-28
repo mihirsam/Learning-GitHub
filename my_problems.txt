@@ -1,2 +1,4 @@
-Consider I have deleted some files in master branch. So I can always go back to older commit to look at those files
+Question 1. Consider I have deleted some files in master branch. So I can always go back to older commit to look at those files
 but is there any way to get those files back on master branch? Or we can just delete a commit ?
+
+Question 2. When to use multiple remote ?
