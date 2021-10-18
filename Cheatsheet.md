@@ -76,6 +76,18 @@ Git distributions for Linux and POSIX systems are available on the official Git 
 
 	 - Discards all history and changes back to the specified commit
 
+
+**Rewriting branches, updating commits and clearing history**
+
+ - $ git rebase <branch>
+
+	 - apply any commits of current branch ahead of specified one
+
+ - $ git reset --hard <commit>
+
+	 - clear staging area, rewrite working tree from specified commit
+	
+
 **Glossary**
 
  - git: an open source, distributed version-control system
